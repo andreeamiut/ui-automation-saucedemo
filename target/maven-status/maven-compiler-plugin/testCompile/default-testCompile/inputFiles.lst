@@ -1,0 +1,6 @@
+/workspaces/ui-automation-saucedemo/src/test/java/BasePage.java
+/workspaces/ui-automation-saucedemo/src/test/java/InventoryPage.java
+/workspaces/ui-automation-saucedemo/src/test/java/LoginPage.java
+/workspaces/ui-automation-saucedemo/src/test/java/runners/RunCucumberTest.java
+/workspaces/ui-automation-saucedemo/src/test/java/steps/Hooks.java
+/workspaces/ui-automation-saucedemo/src/test/java/steps/LoginSteps.java
